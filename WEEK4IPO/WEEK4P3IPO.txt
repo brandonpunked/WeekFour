@@ -1,0 +1,3 @@
+Input: meal total
+Process: tip = meal * 0.15, totalWithTip = meal + tip
+Output: meal total, tip, total with tip

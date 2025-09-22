@@ -1,0 +1,3 @@
+Input: purchase price, current price
+Process: percentChange = ((current - purchase) / purchase) * 100
+Output: percentage increase or decrease
